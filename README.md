@@ -1,4 +1,4 @@
-Kacper is a passionate software engineer with knowledge across variety stacks from dynamic front-end apps, through back-end services via AWS and ETH blockchain. Beyond work, he specializes in adventure photography and is an avid music lover and guitar player.
+Passionate software engineer with knowledge across variety stacks from dynamic front-end apps, through back-end services via AWS and ETH blockchain. Beyond work, he specializes in adventure photography and is an avid music lover and guitar player.
 
 ## Tech Stack
 
