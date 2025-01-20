@@ -12,6 +12,12 @@ TypeScript / Python / React / Electron / Next.js / Node.js / NestJS / Redux / Mo
 
 [DriveCluster - Find inspiration for Your new car project](https://drivecluster.vercel.app/)
 
+## Certificates
+
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f094fd46-6e4a-41c6-a904-4fed8d31b1ce/public_url)
+
+[AI_devs](https://credsverse.com/credentials/e9130bde-2689-4710-96e3-bb6a156cae71)
+
 <!--
 **casp3ro/casp3ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
