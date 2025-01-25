@@ -1,14 +1,16 @@
-Software engineer with a goal-oriented, business-minded approach, experienced in full-stack development & cloud, delivering innovative and impactful solutions.
+Software engineer with experience in full-stack development, cloud, and blockchain. I’m goal-focused and business-driven, focused on delivering innovative solutions that accelerate startup growth.
+
+Before becoming part of the Screen Studio startup, I worked as a developer at a company specializing in blockchain and cloud solutions. I was also involved in the open-source project, TryQuiet.
 
 ## Tech Stack
 
 TypeScript / Python / React / Electron / Next.js / Node.js / NestJS / Redux / MobX / PostgreSQL / TypeORM / Prisma / GraphQL / tRPC / AWS / Vercel / Ethereum / Solidity / macOS
 
-## Projects
+## Personal Projects
 
 [Tripcluster - Create and plan Your trips in one place](https://tripcluster.vercel.app/)
 
-[Cinelar - Match movies/TV shows to given one](https://cinelar.vercel.app/)
+[Cinelar - Match movies/TV shows to given one. Driven by AI](https://cinelar.vercel.app/)
 
 [DriveCluster - Find inspiration for Your new car project](https://drivecluster.vercel.app/)
 
