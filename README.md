@@ -16,6 +16,8 @@ TypeScript / Python / React / Electron / Next.js / Node.js / NestJS / Redux / Mo
 
 ## Certificates
 
+[AWS Certified AI Practitioner](https://www.credly.com/badges/322d55a1-6153-4e68-9022-0c47a6292885/public_url)
+
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f094fd46-6e4a-41c6-a904-4fed8d31b1ce/public_url)
 
 [AI_devs](https://credsverse.com/credentials/e9130bde-2689-4710-96e3-bb6a156cae71)
