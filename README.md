@@ -1,4 +1,4 @@
-Software engineer with experience in full-stack development, cloud, and blockchain. I’m goal-focused and business-driven, focused on delivering innovative solutions that accelerate startup growth.
+Software Engineer & Creator with experience in full-stack development, cloud, and blockchain. Goal-focused and business-driven, dedicated to delivering innovative solutions that accelerate startup growth while also experimenting with AI to drive impactful innovations.
 
 Before becoming part of the Screen Studio startup, I worked as a developer at a company specializing in blockchain and cloud solutions. I was also involved in the open-source project, TryQuiet.
 
