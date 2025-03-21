@@ -8,7 +8,7 @@ TypeScript / Python / React / Electron / Next.js / Node.js / NestJS / Redux / Mo
 
 ## Personal Projects
 
-[Tripcluster - Create and plan Your trips in one place](https://tripcluster.vercel.app/)
+[Travplanner - Prepare travel plan in few clicks](https://travplanner.vercel.app/)
 
 [Cinelar - Match movies/TV shows to given one. Driven by AI](https://cinelar.vercel.app/)
 
