@@ -2,17 +2,22 @@ Software Engineer & Creator with experience in full-stack development, cloud, an
 
 Before becoming part of the Screen Studio startup, I worked as a developer at a company specializing in blockchain and cloud solutions. I was also involved in the open-source project, TryQuiet.
 
+
 ## Tech Stack
 
 TypeScript / Python / React / Electron / Next.js / Node.js / NestJS / Redux / MobX / PostgreSQL / TypeORM / Prisma / GraphQL / tRPC / AWS / Vercel / Ethereum / Solidity / macOS
 
+
 ## Personal Projects
+
+[Sierra Graph - Instantly transform your data into charts, insights, and conclusions](https://sierra-graph.vercel.app/)
 
 [Travplanner - Prepare travel plan in few clicks](https://travplanner.vercel.app/)
 
-[Cinelar - Match movies/TV shows to given one. Driven by AI](https://cinelar.vercel.app/)
+[O-1A Hub - AI assistant focused exclusively on O-1A U.S. Visa guidance](https://o-1a-hub.vercel.app/)
 
 [DriveCluster - Find inspiration for Your new car project](https://drivecluster.vercel.app/)
+
 
 ## Certificates
 
@@ -23,18 +28,3 @@ TypeScript / Python / React / Electron / Next.js / Node.js / NestJS / Redux / Mo
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f094fd46-6e4a-41c6-a904-4fed8d31b1ce/public_url)
 
 [AI_devs](https://credsverse.com/credentials/e9130bde-2689-4710-96e3-bb6a156cae71)
-
-<!--
-**casp3ro/casp3ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
