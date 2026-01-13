@@ -16,8 +16,11 @@ TypeScript / Python / JavaScript / Solidity / SQL / React / Next.js / Node.js / 
 ## Personal Projects
 
 [Travplanner - Prepare travel plan in few clicks](https://travplanner.pl/)
+
 [Sierra Graph - Instantly transform your data into charts, insights, and conclusions](https://sierra-graph.vercel.app/)
+
 [O-1A Hub - AI assistant focused exclusively on O-1A U.S. Visa guidance](https://o-1a-hub.vercel.app/)
+
 [DriveCluster - Find inspiration for Your new car project](https://drivecluster.vercel.app/)
 
 ## Certificates
