@@ -2,11 +2,13 @@
 
 Software engineer, architect, and product builder with 8+ years
 of experience. 
+
 Started in design, evolved into full-stack
 engineering and cloud - now deeply focused on AI/ML.
 
 Currently building Screen Studio - #1 Product Hunt 2025, trusted
 by teams at GitHub, Vercel, and YCombinator. 
+
 End-to-end ownership
 across the entire product lifecycle with focus on growth and impact.
 
