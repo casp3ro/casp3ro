@@ -14,9 +14,9 @@ across the entire product lifecycle with focus on growth and impact.
 
 ## Projects
 
-- **[O-1A Hub](https://o-1a-hub.vercel.app/)** - RAG-based AI assistant for O-1A visa guidance · pgvector · Vercel AI SDK
-- **[Sierra Graph](https://sierra-graph.vercel.app/)** - AI data visualizer · paste CSV, get insights · Vercel AI SDK
-- **[TravPlanner](https://travplanner.pl/)** - AI travel planner · Vercel AI SDK
+- **[O-1A Hub](https://o-1a-hub.vercel.app/)** - RAG-based AI assistant for O-1A visa guidance
+- **[Sierra Graph](https://sierra-graph.vercel.app/)** - AI data visualizer
+- **[TravPlanner](https://travplanner.pl/)** - AI travel planner
 
 ## Tech Stack
 
