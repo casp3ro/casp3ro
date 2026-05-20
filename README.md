@@ -8,9 +8,9 @@ Currently building **[Screen Studio](https://screen.studio/)** - #1 Product Hunt
 
 End-to-end ownership across the entire product lifecycle with focus on growth and impact.
 
-Previously, I worked as a developer at a company specializing in blockchain and cloud solutions.
+Previously, I worked as a developer at a company that specialized in blockchain and cloud solutions.
 
-I was also one of the core contributors in the open-source project, [TryQuiet](https://github.com/TryQuiet/quiet), which focuses on encrypted peer-to-peer team chat based on Tor without servers.
+I was also a core contributor to the open-source project, [TryQuiet](https://github.com/TryQuiet/quiet), which focuses on encrypted peer-to-peer team chat based on Tor without servers.
 
 ## Projects
 
