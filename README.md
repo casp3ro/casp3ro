@@ -1,20 +1,16 @@
 # Kacper Michalik
 
-Software engineer, architect, and product builder with 8+ years
-of experience. 
+Software engineer, architect, and product builder with 8+ years of experience.
 
-Started in design, evolved into full-stack
-engineering and cloud - now deeply focused on AI/ML.
+Started in **[design](https://dribbble.com/KacperMichalik)**, evolved into full-stack engineering and cloud - now deeply focused on AI/ML.
 
-Currently building Screen Studio - #1 Product Hunt 2025, trusted
-by teams at GitHub, Vercel, and YCombinator. 
+Currently building **[Screen Studio](https://screen.studio/)** - #1 Product Hunt 2025, trusted by teams at GitHub, Vercel, and YCombinator.
 
-End-to-end ownership
-across the entire product lifecycle with focus on growth and impact.
+End-to-end ownership across the entire product lifecycle with focus on growth and impact.
 
-## Work
+Previously, I worked as a developer at a company specializing in blockchain and cloud solutions.
 
-**[Screen Studio](https://screen.studio/)** - Screen Recorder producing high-impact videos automatically. Designed for macOS.
+I was also one of the core contributors in the open-source project, [TryQuiet](https://github.com/TryQuiet/quiet), which focuses on encrypted peer-to-peer team chat based on Tor without servers.
 
 ## Projects
 
@@ -26,19 +22,10 @@ across the entire product lifecycle with focus on growth and impact.
 ## Tech Stack
 
 **Languages**
-TypeScript · Python · JavaScript · SQL
+TypeScript · Python · JavaScript · SQL · Solidity
 
-**Frontend & Desktop**
-React · Next.js · Electron · MobX · Styled Components · Tailwind CSS
-
-**Backend & APIs**
-Node.js · NestJS · tRPC · REST · GraphQL · PostgreSQL · Prisma
-
-**Cloud & Infrastructure**
-AWS · Vercel · Docker · GitHub Actions
-
-**AI/ML**
-Python · PyTorch · fast.ai · Vercel AI SDK · RAG
+**Technologies**
+React · Next.js · Node.js · NestJS · Electron · AWS · Vercel · Prisma · PostgreSQL · Redis · Redux · MobX · GraphQL · REST API · tRPC · Styled Components · Tailwind CSS · Jest · Selenium · Ethereum · Gatsby · Sanity · GH Actions · PyTorch · fast.ai · Vercel AI SDK · RAG
 
 ## Certificates
 
