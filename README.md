@@ -2,9 +2,9 @@
 
 Software engineer, architect, and product builder with 8+ years of experience.
 
-Started in **[design](https://dribbble.com/KacperMichalik)**, evolved into full-stack engineering and cloud - now deeply focused on AI/ML.
+Started in [design](https://dribbble.com/KacperMichalik), evolved into full-stack engineering and cloud - now deeply focused on AI/ML.
 
-Currently building **[Screen Studio](https://screen.studio/)** - #1 Product Hunt 2025, trusted by teams at GitHub, Vercel, and YCombinator.
+Currently building [Screen Studio](https://screen.studio/) - #1 Product Hunt 2025, trusted by teams at GitHub, Vercel, and YCombinator.
 
 End-to-end ownership across the entire product lifecycle with focus on growth and impact.
 
@@ -22,9 +22,11 @@ I was also a core contributor to the open-source project, [TryQuiet](https://git
 ## Tech Stack
 
 **Languages**
+
 TypeScript · Python · JavaScript · SQL · Solidity
 
 **Technologies**
+
 React · Next.js · Node.js · NestJS · Electron · AWS · Vercel · Prisma · PostgreSQL · Redis · Redux · MobX · GraphQL · REST API · tRPC · Styled Components · Tailwind CSS · Jest · Selenium · Ethereum · Gatsby · Sanity · GH Actions · PyTorch · fast.ai · Vercel AI SDK · RAG
 
 ## Certificates
