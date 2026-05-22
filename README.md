@@ -16,7 +16,7 @@ I was also a core contributor to the open-source project, [TryQuiet](https://git
 
 - **[TravPlanner](https://travplanner.vercel.app/)** - AI travel planner
 - **[O-1A Hub](https://o-1a-hub.vercel.app/)** - RAG-based AI assistant for O-1A visa guidance
-- **[Sierra Graph](https://sierra-graph.vercel.app/)** - AI data visualizer
+- **[Sierra Graph](https://sierra-graph.vercel.app/)** - Multi-Agnet AI data visualizer
 - **[Pasadena AI](https://pasadena-ai.vercel.app/)** - AI research tool
 
 ## Tech Stack
